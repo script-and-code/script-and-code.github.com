@@ -1,0 +1,38 @@
+.hero-title img {
+  max-height: 280px;
+}
+.hero-row {
+  margin-top: -160px;
+  margin-bottom: -90px;
+  /*margin-left: -50px;*/
+}
+
+.photo {
+  margin-right: 15px;
+}
+
+.photo img {
+  max-width: 60px;
+}
+
+
+.info_follow_us img {
+  max-height: 30px;
+}
+
+#meetups {
+  font-size: 16px;
+}
+
+.marker {
+  font-family: 'Permanent Marker', cursive;
+  color: #241B29; 
+}
+
+.register {
+  margin-left: 90px;
+}
+
+.event_page  {
+  margin-left: 90px;
+}
