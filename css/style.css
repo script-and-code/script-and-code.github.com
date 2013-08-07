@@ -36,3 +36,9 @@
 .event_page  {
   margin-left: 90px;
 }
+
+article a.slides {
+  color: #369;
+  margin-top: 5px;
+  display: block;
+}
